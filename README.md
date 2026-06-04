@@ -8,7 +8,7 @@
 ## 📖 目录 (Coming Soon)
 
 *(这里以后可以放你各个 Markdown 文件的链接，比如：)*
-- [🟢 第一章：如何在一夜之间读懂 20 篇顶会论文](./docs/01-read-papers.md)
+- [🟢 第一章：](./docs/01-read-papers.md)
 
 ---
 
