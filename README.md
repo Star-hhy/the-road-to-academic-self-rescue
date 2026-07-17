@@ -1,13 +1,13 @@
 # 人人皆可科研 —— 理工科的科研救赎 🚀
 
-> 🌌 **The Road to Academic Self-Rescue** —— 踏破科研门，科研为了每一个人。
+> 🌌 **The Road to Academic Self-Rescue** —— 与时俱进，科研不应高高在上。
 > 专为“本科无导师”与“研究生被放养”打造的硬核实战科研教程。涵盖文献检索、阅读、选题、论文写作与避坑指南。
 
 ---
 
 ## 📖 目录 (Coming Soon)
 
-*(这里以后可以放你各个 Markdown 文件的链接，比如：)*
+
 - [🟢 第一章：](./docs/01-read-papers.md)
 
 ---
